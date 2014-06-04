@@ -22,5 +22,6 @@ Update Log
 
 *********************
 Buddhi (Aiden) Gunathilaka
-aiden.gunathilaka@gmail.com
+Email: aiden.gunathilaka@gmail.com
+Github: b-gun
 *********************
