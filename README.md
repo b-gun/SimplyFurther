@@ -1,9 +1,7 @@
 SimplyFurther
 =============
 *********************
-Buddhi (Aiden) Gunathilaka
-Email: aiden.gunathilaka@gmail.com
-Github: b-gun
+Buddhi (Aiden) Gunathilaka // Email: aiden.gunathilaka@gmail.com // Github: b-gun
 *********************
 
 An ebook I've written for Further Mathematics (VCE)
