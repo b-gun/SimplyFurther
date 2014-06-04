@@ -16,6 +16,10 @@ working at my part-time job, and trying to learn other programming languages (Py
 to have the book completly finished by the end of this year! I've put an update log below so you can have a brief
 overview of the changes I have made over the course of writing the book.
 
+Lastly, the editor I've used to write SimplyFurther in is Gummi (For Windows). It's said to be 'unstable', but I quite
+like the features it offers me, especially how the document updates in real time every time I make an edit to the code. 
+However, if you know of a better editor which will suit my needs (hopefully something with better image support), please let me know!
+
 *************
 Update Log
 0.1. Initial Code has been uploaded. Also contains images which are placeholders for the images I want
