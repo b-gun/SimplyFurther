@@ -14,12 +14,6 @@ be posted here in an update log. Thanks for checking this out!
 Update Log
 0.1. Initial Code has been uploaded with (crude) images. 
 
-
-
-
-
-
-
 *********************
 Buddhi (Aiden) Gunathilaka
 Email: aiden.gunathilaka@gmail.com
