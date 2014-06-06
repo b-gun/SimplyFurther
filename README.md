@@ -24,5 +24,6 @@ However, if you know of a better editor which will suit my needs (hopefully some
 Update Log
 0.1 Initial Code has been uploaded. Also contains images which are placeholders for the images I want
 to have placed in the book.
+
 0.2 Finished the first Chapter! Might add in some artwork to seperate chapters after the book is finished.
 
