@@ -242,6 +242,88 @@ Let's take a dataset:
 
 Adding up all the numbers gives us the value 1000006. Now if we divide this by the amount of numbers in the set, we can find that the average is 142858. It's pretty obvious that this isn't actually indicative of what the actual middle of the set is as it's heavily skewed in a certain direction. In cases like this, the median is a better inidicator for the middle, with the median being 1, which is a lot more accurate when determining the middle.
 
+\subsubsection*{The Standard Deviation}
+
+So now that we know what the mean means (pardon the pun), we should also find out what the standard deviation is, as the mean and standard deviation is the two most common things you'll see when working with data. So what is the standard deviation? It's basically a way to see how data is spread around the mean. More to the point, its a way to tell how far a point is from the mean, the higher the standard deviation is, the further away from the mean it is. 
+
+How do we work out the mean? Luckily for us, there is a simple formula which lets us plug in numbers and get out a nice number to called the standard deviation (or SD for short):
+
+\begin{displaymath}
+s =\frac{\sum (x - \bar{x})^{2}}{n-1}
+\end{displaymath}
+
+Now that may look like a confusing jumble of symbols, but lets break it down and get a heads up on what it all means. 
+
+S is pretty simple, it stands for the standard deviation. But whats this crazy symbol mean?
+
+\begin{displaymath}
+\sum
+\end{displaymath}
+
+That symbol stands for 'sum of'. So if we had a series of data points under the title 'Series of data points', and we wanted to write 'Add all of series of data points', we would write:
+
+\begin{displaymath}
+\sum Series \; of \; number \; points
+\end{displaymath}
+
+With regards to the standard deviation, the sum of symbol is saying that we have to add up all the values in the brackets as there are multple values of x in a data set.
+
+But what does the following symbols in the brackets mean?:
+\begin{displaymath}
+(x - \bar{x})^{2}
+\end{displaymath}
+
+This is referring to X, the values in the data set, and the x with a bar over it is the mean. So if you see an equation that has a x with a bar over it, that symbol means the mean. (So many puns!)
+
+Lastly, we need to figure out what this means:
+\begin{displaymath}
+n-1 
+\end{displaymath}
+
+This is just referring to the number of data points, so all you really have to do is is count up how many data points there are and then you've got n. Don't forget to minus one from it though!
+
+So let's put together all that we've learnt, and do a sample question to make sure we know what the heck we're doing.
+
+Say we've got a series of numbers:
+\begin{displaymath}
+1, 2, 3, 4, 5 
+\end{displaymath}
+and we're going to find out what the standard deviation is.
+
+First off, let's calculate the mean:
+\begin{displaymath}
+\bar{x}= \frac{1 + 2 + 3 + 4 + 5}{5} = \frac{15}{5} = 3
+\end{displaymath}
+Now, we've got to find the \underline{sum of} x subtract the mean, and square the values:
+
+\begin{tabular}{|c|c|c|c|}
+\hline
+	X & Mean & X - Mean & X - Mean Squared\\
+\hline
+	1 & 3 & -2 & 4\\
+\hline
+	2 & 3 & -1 & 1\\
+\hline
+	3 & 3 & 0 & 0\\
+\hline
+	4 & 3 & 1 & 1\\
+\hline
+	5 & 3 & 2 & 4\\
+\hline
+\end{tabular}
+
+So the \underline{sum of} X - Mean squared would be:
+
+\begin{displaymath}
+\sum (x- \bar{x})= {4 + 1 + 0 + 1 + 4} = 10
+\end{displaymath}
+
+So, now all we have to do is put this value over (n - 1), and since we know that there is five data points, we can just:
+
+\begin{displaymath}
+
+\end{displaymath}
+
 
 
 
